@@ -1210,7 +1210,7 @@ else:
 
 
 
-# Functions pt.1
+## Functions pt.1
 
 ```python
 fahrenheit_val = 99
